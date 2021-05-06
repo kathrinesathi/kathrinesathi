@@ -1,11 +1,11 @@
-h2>Hello World..!!! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50"></h2>
+<h2>Hello World..!!! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50"></h2><hr>
 <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Final year at Panimalar Engineering College<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: kathrine_sathi](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: kathrinesathi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: kathrinesathi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/kathrine-sathi-031247181/)
 [![GitHub kathrinesathi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: kathrine_sathi](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/kathrine_sathi)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -18,7 +18,7 @@ const Kat = {
   Framework: [Django],
   Software: [Adobe XD, Figma],
   challenge: "I am doing the #100DaysOfCode challenge focused on web development topics"
-  current learning: [React]
+  current learning: [React, Node.js]
 }
 ```
 

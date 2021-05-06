@@ -21,7 +21,7 @@ const Kat = {
   current learning: [React, Node.js],
 }
 ```
-<img src="https://media.giphy.com/media/7aRG17VMgsGek/giphy.gif" width="60"> <h3> <em><b>Be the one to design your life as you design your website..!</b></em><h3> <br>
+ <h3> <em><b>Be the one to design your life as you design your website..!</b></em><h3> <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you..!</b> :)</em>
 
 ---

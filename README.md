@@ -6,14 +6,7 @@
 <!-- [![Linkedin: kathrinesathi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kathrine-sathi-031247181)](https://www.linkedin.com/in/kathrine-sathi-031247181/)
 [![GitHub kathrinesathi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/kathrinesathi)
 [![Twitter: kathrine_sathi](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/kathrine_sathi) -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kathrinesathi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kathrinesathi" height="30" width="40" /></a>
-<a href="https://twitter.com/kathrine_sathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="kathrine_sathi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kathrine sathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="kathrine sathi" height="30" width="40" /></a>
-<a href="https://fb.com/kathrinesathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="kathrinesathi" height="30" width="40" /></a>
-<a href="https://instagram.com/kathyoga_1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="kathyoga_1402" height="30" width="40" /></a>
-</p>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 

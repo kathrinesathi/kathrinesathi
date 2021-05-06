@@ -19,9 +19,12 @@ const Kat = {
   Software: [Adobe XD, Figma],
   challenge: "I am doing the #100DaysOfCode challenge"
   current learning: [React, Node.js],
+  Passionate about: "Reading and writing Blogs"
+  life rule:"Be the one to design your life"
+              "As you design your website"
 }
 ```
- <em><b>Be the one to design your life as you design your website..!</b></em> <br>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you..!</b> :)</em>
 
 ---

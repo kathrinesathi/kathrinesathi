@@ -17,11 +17,11 @@ const Kat = {
   Frontend languages: [HTML, CSS, Bootstrap, Sass],
   Framework: [Django],
   Software: [Adobe XD, Figma],
-  challenge: "I am doing the #100DaysOfCode challenge"
+  challenge: "I am doing the #100DaysOfCode challenge",
   current learning: [React, Node.js],
-  Passionate about: "Reading and writing Blogs"
+  Passionate about: "Reading and writing Blogs",
   life rule:"Be the one to design your life"
-              "As you design your website"
+              "As you design your website",
 }
 ```
 

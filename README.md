@@ -20,8 +20,8 @@ const Kat = {
   challenge: "I am doing the #100DaysOfCode challenge",
   current learning: [React, Node.js],
   Passionate about: "Reading and writing Blogs",
-  life rule:"Be the one to design your life"
-              "As you design your website",
+  life rule:"Be the one to design your life
+               As you design your website",
 }
 ```
 

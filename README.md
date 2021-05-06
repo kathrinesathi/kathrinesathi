@@ -1,10 +1,11 @@
-<h2>Hello World..!!! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50"></h2><hr>
+<h2>From Kathrine,<br>
+     Hello World..!!! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="230">
 <p><em>Final year at Panimalar Engineering College<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: kathrinesathi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/kathrine-sathi-031247181/)
-[![GitHub kathrinesathi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: kathrinesathi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kathrine-sathi-031247181)](https://www.linkedin.com/in/kathrine-sathi-031247181/)
+[![GitHub kathrinesathi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/kathrinesathi)
 [![Twitter: kathrine_sathi](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/kathrine_sathi)
 
 
